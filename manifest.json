@@ -1,5 +1,5 @@
 {
-  "namespace": "TODO: DEFINE ME",
+  "namespace": "kumaRcti",
   "icon": "assets/Logo.png",
   "setup": "setup.mjs"
 }

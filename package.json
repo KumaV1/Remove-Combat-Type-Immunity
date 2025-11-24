@@ -1,7 +1,7 @@
 {
-  "name": "character-specific-expansion-toggles",
+  "name": "kuma-rcti",
   "version": "1.0.0",
-  "description": "MelvorIdle mod, allowing separate configuration of expansion toggles for each character slot",
+  "description": "MelvorIdle mod, removing combat style immunities",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pack": "webpack",
@@ -12,12 +12,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KumaV1/Character-specific-Expansion-toggles-in-Melvor"
+    "url": "https://github.com/KumaV1/Remove-Enemy-Combat-Type-Immunity"
   },
   "bugs": {
-    "url": "https://github.com/KumaV1/Character-specific-Expansion-toggles-in-Melvor/issues"
+    "url": "https://github.com/KumaV1/Remove-Enemy-Combat-Type-Immunity/issues"
   },
-  "homepage": "https://github.com/KumaV1/Character-specific-Expansion-toggles-in-Melvor",
+  "homepage": "https://github.com/KumaV1/Remove-Enemy-Combat-Type-Immunity",
   "devDependencies": {
     "@types/jquery": "^3.5.16",
     "archiver": "^5.3.1",
