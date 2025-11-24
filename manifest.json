@@ -1,0 +1,5 @@
+{
+  "namespace": "TODO: DEFINE ME",
+  "icon": "assets/Logo.png",
+  "setup": "setup.mjs"
+}
